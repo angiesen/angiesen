@@ -1,6 +1,6 @@
 ### Hi there, I'm Gonçalo - aka [goncaz][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fgoncaz.tk)](https://goncaz.tk)
+[![Website](https://img.shields.io/website?label=goncaz.tk&style=for-the-badge&url=https%3A%2F%2Fgoncaz.tk)](https://goncaz.tk)
 
 
 ## I'm a Developer, and Student!!
