@@ -54,4 +54,4 @@
 [website]: https://goncaz.tk
 [twitter]: https://twitter.com/gvncaz
 [youtube]: https://www.youtube.com/channel/UCdYCeqvJcdkPK9kSoUR2Tag
-[instagram]: https://instagram.com/btwgoncaz
+[instagram]: https://instagram.com/gwncaz
